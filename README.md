@@ -7,11 +7,11 @@
 Data Analysis on Bikeshare Data
 
 ### Description
-Describe what your project is about and what it does
+Performed exploratory and explanatory analysis on Divvy Bikeshare data using Python. 
 
 ### Files used
-Include the files used
+chicago.csv, washington.csv, new_york_city.csv, bikeshare.py
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+https://towardsdatascience.com/predicting-hourly-divvy-bike-sharing-checkouts-per-station-65b1d217d8a4
 
