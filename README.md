@@ -4,10 +4,10 @@
 08/18/2021
 
 ### Project Title
-Data Analysis on Bikeshare Data
+Exploratory and Explanatory data analysis on Divvy Bikeshare Data
 
 ### Description
-Performed exploratory and explanatory analysis on Divvy Bikeshare data using Python. 
+The bikeshare database consists of data pertaining to origin station, destination, time of rental in Chicago, Washington and Newyork Cities. The project objective was to perform staistical analysis on popular times of travel, popular stations and trip, trip duration and user info. 
 
 ### Files used
 chicago.csv, washington.csv, new_york_city.csv, bikeshare.py
