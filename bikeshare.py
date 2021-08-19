@@ -49,7 +49,7 @@ def get_filters():
 
 
 def load_data(city, month, day):
-    
+    # loading data to pandas dataframe
     df = pd.read_csv(CITY_DATA[city])
     df['Start Time'] = pd.to_datetime(df['Start Time'])
 
